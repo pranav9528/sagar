@@ -103,7 +103,7 @@ class _RegisterPageState extends State<RegisterPage> {
               TextField(
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: 'enter addres ',
+                  hintText: 'enter permanent address ',
                 ),
               ),
               SizedBox(
