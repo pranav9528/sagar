@@ -80,7 +80,7 @@ class _RegisterPageState extends State<RegisterPage> {
               TextField(
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: 'enter name',
+                  hintText: 'enter name with surname',
                 ),
               ),
               const SizedBox(
