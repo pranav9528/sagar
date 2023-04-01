@@ -42,7 +42,7 @@ class _RegisterPageState extends State<RegisterPage> {
             onPressed: () {},
             icon: const Icon(Icons.home),
           ),
-          title: Text("registration "),
+          title: Text("registration work "),
           actions: [
             IconButton(
               onPressed: () {},
@@ -103,7 +103,7 @@ class _RegisterPageState extends State<RegisterPage> {
               TextField(
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: 'enter permanent address ',
+                  hintText: 'enter permanent addres ',
                 ),
               ),
               SizedBox(
