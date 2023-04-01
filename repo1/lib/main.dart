@@ -42,7 +42,7 @@ class _RegisterPageState extends State<RegisterPage> {
             onPressed: () {},
             icon: const Icon(Icons.home),
           ),
-          title: Text("registration form "),
+          title: Text("registration form from 7464 "),
           actions: [
             IconButton(
               onPressed: () {},
